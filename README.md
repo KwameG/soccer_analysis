@@ -4,4 +4,6 @@ This project will look at goal information from the top-level men's soccer teams
 
 ###### Credits: [Kaggle: Europe Big 5 League Last 5 Season Match Scores](https://www.ghanaweb.com/)
 
+![La Liga logo](https://assets.laliga.com/assets/logos/laliga-v/laliga-v-300x300.jpg)
+
 
